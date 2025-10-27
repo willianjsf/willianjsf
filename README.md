@@ -40,7 +40,7 @@ I'm a Systems Information student at Universidade de São Paulo (USP) and ... [I
  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
-<h4>Backend Developments</h4>
+<h4>Backend </h4>
 <p>
  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia">
  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
