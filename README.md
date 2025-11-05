@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/images/campfire.gif" width="100%" />
+</p>
+
 
 <h1 align="center">Hi there, I'm Willian Farias👋</h1>
 I'm an Information Systems student at Universidade de São Paulo (USP) and passionate about technology and software development. I’m looking to collaborate on projects that improve people's lives.
