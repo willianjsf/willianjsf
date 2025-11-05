@@ -1,10 +1,7 @@
 
-<img src="./assets/images/lua.jpg">
-
 <h1 align="center">Hi there, I'm Willian Farias👋</h1>
-I'm a Systems Information student at Universidade de São Paulo (USP) and ... [IN CONSTRUCTION]
-<!-- I’m looking to collaborate on
--->
+I'm an Information Systems student at Universidade de São Paulo (USP) and passionate about technology and software development. I’m looking to collaborate on projects that improve people's lives.
+
 <br>
 <div>
  <div>
@@ -13,15 +10,15 @@ I'm a Systems Information student at Universidade de São Paulo (USP) and ... [I
 
    &nbsp;
     
-   &nbsp;&#10022; ---.
+   &nbsp;&#10022; I'm 19 years old and very curious about learning new ways of thinking.
 
-   &nbsp;&#10022; Currently working in personal projects as ---.
+   &nbsp;&#10022; Currently working on a group project named **Patinhas**: a pedometer for dogs with an app.
 
-   &nbsp;&#10022; I'm learning the fundamentals of Backend.
+   &nbsp;&#10022; I'm learning the fundamentals of backend development.
 
-   &nbsp;&#10022; I have understanding in Portugues (native), **English** (fluent), **Français** (newbie).
+   &nbsp;&#10022; I have proficiency in Portugues (native), **English** (fluent), **Français** (newbie).
 
-   &nbsp;&#10022; I like programming, watch anime and learn new things.
+   &nbsp;&#10022; I like programming, playing games, and learning new things.
    
    &nbsp;&#10022; Nice to meet you!
    
